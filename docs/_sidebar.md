@@ -1,17 +1,16 @@
 - Introduction
-
   - [Getting Started](gettingstarted.md)
-  - [Why Bloc?](whybloc.md)
+  <!-- - [Why Bloc?](whybloc.md)
   - Core Concepts
     - [bloc](coreconcepts.md)
     - [flutter_bloc](flutterbloccoreconcepts.md)
   - [Architecture](architecture.md)
-  - [Testing](testing.md)
+  - [Testing](testing.md) -->
 
 - Tutorials
+  - [Animation](flutteranimationtutorial.md)
 
-  - Flutter
-    - [Counter](fluttercountertutorial.md)
+  <!-- - Flutter
     - [Timer](fluttertimertutorial.md)
     - [Infinite List](flutterinfinitelisttutorial.md)
     - [Login](flutterlogintutorial.md)
@@ -22,23 +21,23 @@
   - AngularDart
     - [Counter](angularcountertutorial.md)
   - Flutter + AngularDart
-    - [Github Search](flutterangulargithubsearch.md)
+    - [Github Search](flutterangulargithubsearch.md) -->
 
-- Recipes
+<!-- - Recipes
 
   - Flutter
     - [Show SnackBar](recipesfluttershowsnackbar.md)
     - [Navigation](recipesflutternavigation.md)
-    - [Bloc Access](recipesflutterblocaccess.md)
+    - [Bloc Access](recipesflutterblocaccess.md) -->
 
-- Tools
+<!-- - Tools
 
   - Extensions
 
     - [IntelliJ](blocintellijextension.md)
-    - [VSCode](blocvscodeextension.md)
+    - [VSCode](blocvscodeextension.md) -->
 
-- API Reference
+<!-- - API Reference
   - [bloc](https://pub.dev/documentation/bloc/latest/bloc/bloc-library.html)
   - [flutter_bloc](https://pub.dev/documentation/flutter_bloc/latest/flutter_bloc/flutter_bloc-library.html)
-  - [angular_bloc](https://pub.dev/documentation/angular_bloc/latest/angular_dart/angular_dart-library.html)
+  - [angular_bloc](https://pub.dev/documentation/angular_bloc/latest/angular_dart/angular_dart-library.html) -->
