@@ -1,11 +1,11 @@
 - Introduction
   - [Getting Started](gettingstarted.md)
-  <!-- - [Why Bloc?](whybloc.md)
-  - Core Concepts
-    - [bloc](coreconcepts.md)
-    - [flutter_bloc](flutterbloccoreconcepts.md)
-  - [Architecture](architecture.md)
-  - [Testing](testing.md) -->
+  <!-- - [Why Bloc?](whybloc.md) -->
+  <!-- - Core Concepts -->
+    <!-- - [bloc](coreconcepts.md) -->
+    <!-- - [flutter_bloc](flutterbloccoreconcepts.md) -->
+  <!-- - [Architecture](architecture.md) -->
+  <!-- - [Testing](testing.md) -->
 
 - Tutorials
   - [Animation](flutteranimationtutorial.md)
